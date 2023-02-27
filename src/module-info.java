@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author shugi
+ *
+ */
+module MineSweeper {
+}
